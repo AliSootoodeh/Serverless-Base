@@ -1,0 +1,14 @@
+{
+  "name": "serverless-base",
+  "version": "1.0.0",
+  "description": "Template for Serverless ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Sootoodeh",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-bundle": "^6.0.0"
+  }
+}
